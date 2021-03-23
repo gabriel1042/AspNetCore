@@ -1,0 +1,55 @@
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.database.deps.json
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.database.dll
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.csprojAssemblyReference.cache
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.AssemblyInfoInputs.cache
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.AssemblyInfo.cs
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.csproj.CopyComplete
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.database.pdb
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.dll
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.pdb
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.business.dll
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.business.pdb
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.api.exe
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.api.dll
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.api.pdb
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.database.deps.json
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.database.runtimeconfig.json
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.database.runtimeconfig.dev.json
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.database.dll
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.database.pdb
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.business.dll
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.business.pdb
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.csprojAssemblyReference.cache
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.AssemblyInfoInputs.cache
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.AssemblyInfo.cs
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.csproj.CoreCompileInputs.cache
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.csproj.CopyComplete
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.dll
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.pdb
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.genruntimeconfig.cache
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.database.deps.json
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.database.runtimeconfig.json
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.database.runtimeconfig.dev.json
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.database.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.database.pdb
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.business.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\System.Windows.Forms.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\Accessibility.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\System.Deployment.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\erp_usitronic.business.pdb
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\System.Windows.Forms.xml
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\Accessibility.xml
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\System.Deployment.xml
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\bin\Debug\netcoreapp3.1\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.csprojAssemblyReference.cache
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.AssemblyInfoInputs.cache
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.AssemblyInfo.cs
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.csproj.CopyComplete
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.pdb
+C:\Meus Projetos\erp_usitronic\src\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.AssemblyInfoInputs.cache
+C:\Meus Projetos\erp_usitronic\src\erp_usitronic.database\obj\Debug\netcoreapp3.1\erp_usitronic.database.AssemblyInfo.cs

@@ -1,0 +1,17 @@
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.business\bin\Release\netcoreapp3.1\erp_usitronic.business.deps.json
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.business\bin\Release\netcoreapp3.1\erp_usitronic.business.dll
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.business\bin\Release\netcoreapp3.1\erp_usitronic.business.pdb
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.business\obj\Release\netcoreapp3.1\erp_usitronic.business.csprojAssemblyReference.cache
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.business\obj\Release\netcoreapp3.1\erp_usitronic.business.AssemblyInfoInputs.cache
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.business\obj\Release\netcoreapp3.1\erp_usitronic.business.AssemblyInfo.cs
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.business\obj\Release\netcoreapp3.1\erp_usitronic.business.csproj.CoreCompileInputs.cache
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.business\obj\Release\netcoreapp3.1\erp_usitronic.business.dll
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.business\obj\Release\netcoreapp3.1\erp_usitronic.business.pdb
+C:\Meus Projetos\erp_usitronic\erp_usitronic.business\bin\Release\netcoreapp3.1\erp_usitronic.business.deps.json
+C:\Meus Projetos\erp_usitronic\erp_usitronic.business\bin\Release\netcoreapp3.1\erp_usitronic.business.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.business\bin\Release\netcoreapp3.1\erp_usitronic.business.pdb
+C:\Meus Projetos\erp_usitronic\erp_usitronic.business\obj\Release\netcoreapp3.1\erp_usitronic.business.csprojAssemblyReference.cache
+C:\Meus Projetos\erp_usitronic\erp_usitronic.business\obj\Release\netcoreapp3.1\erp_usitronic.business.AssemblyInfoInputs.cache
+C:\Meus Projetos\erp_usitronic\erp_usitronic.business\obj\Release\netcoreapp3.1\erp_usitronic.business.AssemblyInfo.cs
+C:\Meus Projetos\erp_usitronic\erp_usitronic.business\obj\Release\netcoreapp3.1\erp_usitronic.business.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.business\obj\Release\netcoreapp3.1\erp_usitronic.business.pdb

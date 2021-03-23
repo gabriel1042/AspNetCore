@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "erp_usitronic.api", "erp_usitronic_api\erp_usitronic.api.csproj", "{1633E1AD-70B6-4C3F-AADC-58DB32AA8C75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "erp_usitronic.business", "erp_usitronic.business\erp_usitronic.business.csproj", "{688B37B2-0283-4643-9AF5-F811C1607AB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "erp_usitronic.database", "erp_usitronic.database\erp_usitronic.database.csproj", "{0831AF4C-6213-4419-BBD5-B730FEC9750D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "erp_usitronic.client", "erp_usitronic.client\erp_usitronic.client.csproj", "{6EE52CFA-82A8-4B9E-AD48-326AF0E010F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "erp_usitronic.tests", "erp_usitronic.tests\erp_usitronic.tests.csproj", "{398D1998-CAC1-439D-9A6B-B3453C35B1EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "erp_usitronic.console", "erp_usitronic.console\erp_usitronic.console.csproj", "{020E7758-5C0C-446F-9C97-15E416D6380B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1633E1AD-70B6-4C3F-AADC-58DB32AA8C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1633E1AD-70B6-4C3F-AADC-58DB32AA8C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1633E1AD-70B6-4C3F-AADC-58DB32AA8C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1633E1AD-70B6-4C3F-AADC-58DB32AA8C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{688B37B2-0283-4643-9AF5-F811C1607AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688B37B2-0283-4643-9AF5-F811C1607AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688B37B2-0283-4643-9AF5-F811C1607AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688B37B2-0283-4643-9AF5-F811C1607AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0831AF4C-6213-4419-BBD5-B730FEC9750D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0831AF4C-6213-4419-BBD5-B730FEC9750D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0831AF4C-6213-4419-BBD5-B730FEC9750D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0831AF4C-6213-4419-BBD5-B730FEC9750D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE52CFA-82A8-4B9E-AD48-326AF0E010F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE52CFA-82A8-4B9E-AD48-326AF0E010F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE52CFA-82A8-4B9E-AD48-326AF0E010F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE52CFA-82A8-4B9E-AD48-326AF0E010F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398D1998-CAC1-439D-9A6B-B3453C35B1EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398D1998-CAC1-439D-9A6B-B3453C35B1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398D1998-CAC1-439D-9A6B-B3453C35B1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398D1998-CAC1-439D-9A6B-B3453C35B1EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020E7758-5C0C-446F-9C97-15E416D6380B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020E7758-5C0C-446F-9C97-15E416D6380B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020E7758-5C0C-446F-9C97-15E416D6380B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020E7758-5C0C-446F-9C97-15E416D6380B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {354E6F17-E801-4A97-BECE-FD6F9FF3105A}
+	EndGlobalSection
+EndGlobal

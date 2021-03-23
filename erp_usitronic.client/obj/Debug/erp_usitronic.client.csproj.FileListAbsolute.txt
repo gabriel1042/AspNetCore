@@ -1,0 +1,42 @@
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\bin\Debug\erp_usitronic.client.exe.config
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\bin\Debug\erp_usitronic.client.exe
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\bin\Debug\erp_usitronic.client.pdb
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.csprojAssemblyReference.cache
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.Properties.Resources.resources
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.csproj.GenerateResource.cache
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.exe
+D:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.pdb
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\bin\Debug\erp_usitronic.client.exe.config
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\bin\Debug\erp_usitronic.client.exe
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\bin\Debug\erp_usitronic.client.pdb
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.csprojAssemblyReference.cache
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.Properties.Resources.resources
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.csproj.GenerateResource.cache
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.csproj.CoreCompileInputs.cache
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.exe
+E:\Meus Projetos\Asp Net Core\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.pdb
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\bin\Debug\erp_usitronic.client.pdb
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\bin\Debug\erp_usitronic.business.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\bin\Debug\Newtonsoft.Json.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\bin\Debug\System.Web.Http.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\bin\Debug\erp_usitronic.business.pdb
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\bin\Debug\Newtonsoft.Json.xml
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\bin\Debug\System.Web.Http.xml
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.csprojAssemblyReference.cache
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.Forms.BankForm.resources
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.Forms.CompanyForm.resources
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.Forms.FormBase.resources
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.Forms.LoadingSplash.WaitProcessing.resources
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.Forms.Login.resources
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.Forms.MenuForm.resources
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.Properties.Resources.resources
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.csproj.GenerateResource.cache
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.csproj.CopyComplete
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.pdb
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.Forms.PersonForm.resources
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\bin\Debug\FastMember.Signed.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\bin\Debug\erp_usitronic.client.dll.config
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\bin\Debug\erp_usitronic.client.dll
+C:\Meus Projetos\erp_usitronic\erp_usitronic.client\obj\Debug\erp_usitronic.client.dll

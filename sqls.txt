@@ -1,0 +1,13 @@
+select b.company_name, a.payment_value, a.kind_payment, iif(c.issuer is null, '', c.issuer) as issuer, iif(d.name is null, '', d.name) as name, a.payment_date
+from payments a
+inner join suppliers b on b.id = a.supplier_id
+left join checks c on c.payment_id = a.id
+left join banks d on c.bank_id = d.id
+where a.payment_date between '2021-02-01' and '2021-02-28'
+order by a.payment_date;
+
+select b.company_name, a.receipt_value, a.shipping_situation, a.receipt_date
+from receipts a
+inner join customers b on a.customer_id = b.id
+where a.receipt_date between '2021-02-01' and '2021-02-28'
+order by a.receipt_date;
